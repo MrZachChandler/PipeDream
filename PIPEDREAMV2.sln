@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{4DE0765E-645C-4A17-0E91-AE177BE612A9}") = "PIPEDREAMV2", "Assembly-CSharp-firstpass.csproj", "{DBB02F06-EEDD-E05B-CD0A-98DA95A57F40}"
+EndProject
+Project("{4DE0765E-645C-4A17-0E91-AE177BE612A9}") = "PIPEDREAMV2", "Assembly-CSharp.csproj", "{4E4A70A7-9A09-5BA2-4974-2B6AD43A83F3}"
+EndProject
+Project("{4DE0765E-645C-4A17-0E91-AE177BE612A9}") = "PIPEDREAMV2", "Assembly-CSharp-Editor.csproj", "{D50DDA81-B9B4-3761-3899-3BE1B95FE51C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DBB02F06-EEDD-E05B-CD0A-98DA95A57F40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBB02F06-EEDD-E05B-CD0A-98DA95A57F40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBB02F06-EEDD-E05B-CD0A-98DA95A57F40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBB02F06-EEDD-E05B-CD0A-98DA95A57F40}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E4A70A7-9A09-5BA2-4974-2B6AD43A83F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E4A70A7-9A09-5BA2-4974-2B6AD43A83F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E4A70A7-9A09-5BA2-4974-2B6AD43A83F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E4A70A7-9A09-5BA2-4974-2B6AD43A83F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D50DDA81-B9B4-3761-3899-3BE1B95FE51C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D50DDA81-B9B4-3761-3899-3BE1B95FE51C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D50DDA81-B9B4-3761-3899-3BE1B95FE51C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D50DDA81-B9B4-3761-3899-3BE1B95FE51C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
